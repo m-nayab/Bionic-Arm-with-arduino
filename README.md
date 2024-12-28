@@ -4,6 +4,8 @@ Robotic Prosthetic Hand
 
 This project outlines the design and implementation of a robotic prosthetic hand that mimics the functionality of a human hand. The system utilizes flex sensors integrated into a glove to capture finger bending movements. These sensor signals are processed by an Arduino Uno microcontroller, which then controls servo motors to actuate the corresponding fingers of the prosthetic hand.
 
+Stimulation link : https://www.tinkercad.com/things/76D8xAaATrd-robotic-arm-
+
 2. Project Setup
 
 Clone this repository:
@@ -29,6 +31,9 @@ Glove
 Prosthetic Hand
 Resistors
 Jumper wires
+
+![arm](https://github.com/user-attachments/assets/39434dc2-4920-41a1-b516-4ef153687635)
+
 
 4. Software Components
 
